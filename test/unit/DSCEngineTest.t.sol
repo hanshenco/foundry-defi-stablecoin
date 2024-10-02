@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.24;
 
-import {DeployDSC} from "../../script/DeployDSC.s.sol";
+import {DeployDSC} from "../../script/DeployDsc.s.sol";
 import {DSCEngine} from "../../src/DSCEngine.sol";
 import {DecentralizedStableCoin} from "../../src/DecentralizedStableCoin.sol";
 import {HelperConfig} from "../../script/HelperConfig.s.sol";
